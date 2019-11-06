@@ -1,5 +1,5 @@
 'use strict';
-const rootEndpoint = 'http://api.github.com';
+const rootEndpoint = 'https://api.github.com';
 const ul = $('ul').first();
 
 async function handleSubmit(e) {
